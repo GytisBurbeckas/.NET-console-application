@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingsManager", "MeetingsManager.csproj", "{DBC7630C-466D-4970-AB92-9AA6874D6C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingsManagerTests", "..\MeetingsManagerTests\MeetingsManagerTests.csproj", "{800E8262-9A98-4745-A57C-45DE6224BD9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC7630C-466D-4970-AB92-9AA6874D6C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC7630C-466D-4970-AB92-9AA6874D6C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC7630C-466D-4970-AB92-9AA6874D6C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC7630C-466D-4970-AB92-9AA6874D6C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800E8262-9A98-4745-A57C-45DE6224BD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800E8262-9A98-4745-A57C-45DE6224BD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800E8262-9A98-4745-A57C-45DE6224BD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800E8262-9A98-4745-A57C-45DE6224BD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56768601-15CC-41ED-B8A0-FE18312E8495}
+	EndGlobalSection
+EndGlobal

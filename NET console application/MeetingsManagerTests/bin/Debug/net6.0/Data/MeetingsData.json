@@ -1,0 +1,61 @@
+[
+  {
+    "Name": "MeetingOne",
+    "ResponsiblePerson": "Jonas",
+    "Description": "Important",
+    "Category": 3,
+    "Type": 0,
+    "StartDate": "2000-11-12T17:01:00",
+    "EndDate": "2000-10-11T17:01:00",
+    "Persons": []
+  },
+  {
+    "Name": "MeetingTwo",
+    "ResponsiblePerson": "Jonas",
+    "Description": "Meeting of something",
+    "Category": 1,
+    "Type": 1,
+    "StartDate": "2019-12-15T17:01:00",
+    "EndDate": "2022-12-15T17:01:00",
+    "Persons": []
+  },
+  {
+    "Name": "MeetingThree",
+    "ResponsiblePerson": "Tadas",
+    "Description": "Third meeting",
+    "Category": 0,
+    "Type": 1,
+    "StartDate": "2019-12-15T17:01:00",
+    "EndDate": "2000-12-15T17:01:00",
+    "Persons": []
+  },
+  {
+    "Name": "AlgioMeeting",
+    "ResponsiblePerson": "Algis",
+    "Description": "Algio meeting here",
+    "Category": 1,
+    "Type": 1,
+    "StartDate": "2022-12-12T00:00:00",
+    "EndDate": "2022-12-13T00:00:00",
+    "Persons": [
+      {
+        "Name": "Tadas",
+        "AddDate": "2000-12-15T17:01:00"
+      },
+      {
+        "Name": "Algis",
+        "AddDate": "2022-12-12T17:12:00"
+      }
+    ]
+  },
+  {
+    "Name": "NewMeetingFour",
+    "ResponsiblePerson": "Darius",
+    "Description": "Simple talk",
+    "Category": 2,
+    "Type": 1,
+    "StartDate": "2022-07-15T23:00:00",
+    "EndDate": "2022-07-15T12:00:00",
+    "Persons": []
+  }
+]
